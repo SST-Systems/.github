@@ -13,28 +13,6 @@ SST Systems builds the low-level plumbing that production Unity teams keep rewri
 
 Our tooling is **serialization-first**, **allocation-aware**, and **DI-ready**, so it fits naturally into modern Unity projects whether or not you use a dependency-injection container.
 
-## Explore our packages
-
-Our library grows over time. Browse the full, up-to-date list in **[Repositories](https://github.com/orgs/SST-Systems/repositories)** — each repository has its own README with setup, requirements, and API examples.
-
-## Getting started
-
-Our packages install via the Unity Package Manager. Open **Window → Package Manager → + → Add package from git URL** and paste the repository's git URL:
-
-```
-https://github.com/SST-Systems/<package>.git
-```
-
-See the individual repository for its exact URL and instructions.
-
-## Design principles
-
-- **Focused** — one problem per package, no monolith.
-- **Serialization-safe** — data survives refactors, renames, and version bumps.
-- **Zero-surprise performance** — allocation-aware by default.
-- **DI-ready, not DI-locked** — works with or without a container.
-- **MIT-licensed** — use it in commercial and open projects alike.
-
 ## Contributing
 
 Contributions are welcome. Please open an issue in the relevant repository to discuss a bug or feature before submitting a pull request, and keep changes focused and covered by tests where practical.
