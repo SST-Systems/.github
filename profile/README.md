@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/302007878?s=200&v=4" width="240" alt="SST Systems" />
 
   <p><b>Advanced frameworks, packages, and core tooling for professional Unity game development.</b></p>
 
