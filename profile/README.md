@@ -1,11 +1,3 @@
-<div align="center">
-
-  <p><b>Advanced frameworks, packages, and core tooling for professional Unity game development.</b></p>
-
-</div>
-
----
-
 ## Who we are
 
 SST Systems builds the low-level plumbing that production Unity teams keep rewriting on every project — as small, focused, MIT-licensed packages. Each package does one thing well, ships with clean APIs, and is designed to drop into an existing codebase without forcing an architecture on you.
