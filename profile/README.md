@@ -16,11 +16,3 @@ Our tooling is **serialization-first**, **allocation-aware**, and **DI-ready**, 
 ## Contributing
 
 Contributions are welcome. Please open an issue in the relevant repository to discuss a bug or feature before submitting a pull request, and keep changes focused and covered by tests where practical.
-
-## License
-
-Our packages are released under the [MIT License](https://opensource.org/licenses/MIT) unless a repository states otherwise.
-
-## Contact
-
-Maintained by [Egor Shesterikov](https://www.linkedin.com/in/egor-shesterikov-4a9a07390/) · Questions and requests via GitHub Issues.
